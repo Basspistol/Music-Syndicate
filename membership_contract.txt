@@ -1,7 +1,8 @@
 <Musical Syndicate's Name> CONTRACT
------------------------
+-----------------------------------
 
 I. Basics
+---------
 
 1. Signing with <Musical Syndicate's Name>
 
@@ -17,6 +18,7 @@ CONTRACT IS NONE EXCLUSIVE. You remain free to move without
 <Musical Syndicate's Name>. <Musical Syndicate's Name> remains free to move without you.
 
 II. Rights agreements and overstandings.
+----------------------------------------
 
 1. Recordings:
 
@@ -64,6 +66,7 @@ dates and takes the responsibility to inform <Musical Syndicate's Name> of
 his/her/their movements.
 
 III. Duration of the contract and form.
+---------------------------------------
 
 1. Duration
 
